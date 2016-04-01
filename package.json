@@ -1,0 +1,20 @@
+{
+  "name": "text_language_detector",
+  "version": "0.1.0",
+  "description": "A Simple Text Language Detector using Machine Learning Algorithm",
+  "main": "detector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "language",
+    "detector"
+  ],
+  "author": "@yepesasecas",
+  "license": "MIT",
+  "dependencies": {
+    "classifier": "^0.1.0"
+  }
+}
